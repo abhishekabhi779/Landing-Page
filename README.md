@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+Here's a GitHub profile README draft for you based on the provided resume:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# Hey there! 👋
 
-In the project directory, you can run:
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-### `npm start`
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Abhishek-Sattu/count.svg" />
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About Me
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Hi, I'm **Abhishek Sattu**! 👨‍💻  
+I'm a passionate **Data Analyst** with a Master's in Computer Science from the State University of New York, Utica. I thrive on uncovering actionable insights through **data modeling**, **visualization**, and **AI-driven solutions**.  
 
-### `npm test`
+When I'm not working with data, I enjoy exploring innovative technologies and sharing my knowledge through collaboration.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### `npm run build`
+## Work Highlights
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Graduate Assistant** | State University of New York, Utica  
+- Automated homework evaluation with Python scripting, reducing grading time by **33%**.  
+- Designed Power BI dashboards to analyze student engagement, increasing participation by **25%**.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Associate Data Analyst** | Fosterate Inc  
+- Conducted A/B testing to optimize pricing, increasing profit margins by **12%**.  
+- Built Power BI dashboards for strategic planning, reducing service time by **20%**.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Featured Projects
 
-### `npm run eject`
+### **Splitwise Expense Optimization**  
+- Created Power BI visualizations for roommate expense management, resolving **15%** of financial discrepancies.  
+- Cleaned data with Excel & Power Query, applying predictive analytics for optimized tracking.  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### **Intelligent Car Recommendation System**  
+- Developed an **AI agent** using RAG architecture and NLP, improving recommendation accuracy by **25%**.  
+- Built a Streamlit web app leveraging Ollama LLM for real-time car recommendations.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Get in Touch!  
+- [LinkedIn](https://www.linkedin.com/in/abhishek-sattu)  
+- [GitHub](https://github.com/Abhishek-Sattu)  
+- [Email](mailto:abhi.sat779@gmail.com)  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Let me know if you'd like any tweaks or additional customizations!
