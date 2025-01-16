@@ -1,6 +1,5 @@
-Here's a GitHub profile README draft for you based on the provided resume:
 
----
+
 
 # Hey there! 👋
 
